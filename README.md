@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @austinlovell25
+- 👋 Hi, I’m @austinlovell25.
 I am currently a freshman at Purdue University, and I am majoring in computer science.
 I can be contacted through my private email (austinlovell@yahoo.com) or university email (lovella@purdue.edu)
 
