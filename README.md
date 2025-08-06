@@ -1,4 +1,4 @@
-Hi, I'm currently a senior at Purdue University, and I am majoring in computer science.
+Hi, I'm currently a Master's Student at Purdue University, and I am majoring in computer science.
 I can be contacted through my private email (austinlovell@yahoo.com) or university email (lovella@purdue.edu)
 
 <!---
